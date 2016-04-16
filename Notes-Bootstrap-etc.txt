@@ -1,0 +1,8 @@
+This is the commands for Grunt
+http://getbootstrap.com/getting-started/#grunt
+
+
+Server Credentials
+ftp server: ftp.ord1-1.websitesettings.com PORT 22
+Username: lpaa
+Password: LPAAsv2014!
