@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a0bf9bdb-3e47-4e47-b0a4-c3f8903c5ebd" name="Default" comment="" />
+    <list default="true" id="a0bf9bdb-3e47-4e47-b0a4-c3f8903c5ebd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/ArtCenter.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/LogowithText.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/ie10-viewport-bug-workaround.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/css/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dist/js/offcanvas.js" />
+      <change type="DELETED" beforePath="E:\Webstorm\LPAA2016\img\index.htm" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Notes-Bootstrap-etc.txt" afterPath="$PROJECT_DIR$/Notes-Bootstrap-etc.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap-theme.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/dist/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\Webstorm\LPAA2016\index.htm" afterPath="$PROJECT_DIR$/indexold.html" />
+    </list>
     <ignored path="LPAA2016.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,43 +47,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Notes-Bootstrap-etc.txt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.038462" vertical-offset="765" max-vertical-offset="2516">
+              <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Notes-Bootstrap-etc.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Notes-Bootstrap-etc.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2505263" vertical-offset="0" max-vertical-offset="475">
-              <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+              <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gruntfile.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/Gruntfile.js">
+      <file leaf-file-name="offcanvas.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dist/css/offcanvas.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.88" vertical-offset="5618" max-vertical-offset="9163">
-              <caret line="345" column="7" selection-start-line="345" selection-start-column="7" selection-end-line="345" selection-end-column="7" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="configBridge.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/grunt/configBridge.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="884">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="32.692307" vertical-offset="918" max-vertical-offset="1581">
-              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.14166667" vertical-offset="0" max-vertical-offset="1241">
+              <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -74,209 +85,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Notes-Bootstrap-etc.txt" />
         <option value="$PROJECT_DIR$/bootstrap-3.3.6/package.json" />
+        <option value="$PROJECT_DIR$/Notes-Bootstrap-etc.txt" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dist/css/offcanvas.css" />
       </list>
     </option>
   </component>
   <component name="JsGruntFileManager">
-    <gruntfiles>
-      <GruntfileState>
-        <alias-tasks>
-          <alias-task value="build-customizer" />
-          <alias-task value="build-customizer-html" />
-          <alias-task value="change-version-number" />
-          <alias-task value="default" />
-          <alias-task value="dist" />
-          <alias-task value="dist-css" />
-          <alias-task value="dist-js" />
-          <alias-task value="docs" />
-          <alias-task value="docs-css" />
-          <alias-task value="docs-js" />
-          <alias-task value="less-compile" />
-          <alias-task value="lint-docs-css" />
-          <alias-task value="lint-docs-js" />
-          <alias-task value="prep-release" />
-          <alias-task value="test" />
-          <alias-task value="test-js" />
-          <alias-task value="update-shrinkwrap" />
-          <alias-task value="validate-html" />
-        </alias-tasks>
-        <multi-tasks>
-          <GruntMultiTaskState>
-            <name>_update-shrinkwrap</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>autoprefixer</name>
-            <targets>
-              <target value="core" />
-              <target value="theme" />
-              <target value="docs" />
-              <target value="examples" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>build-glyphicons-data</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>build-raw-files</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>clean</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>commonjs</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>compress</name>
-            <targets>
-              <target value="main" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>concat</name>
-            <targets>
-              <target value="bootstrap" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>connect</name>
-            <targets>
-              <target value="server" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>copy</name>
-            <targets>
-              <target value="fonts" />
-              <target value="docs" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>csscomb</name>
-            <targets>
-              <target value="dist" />
-              <target value="examples" />
-              <target value="docs" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>csslint</name>
-            <targets>
-              <target value="dist" />
-              <target value="examples" />
-              <target value="docs" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>cssmin</name>
-            <targets>
-              <target value="minifyCore" />
-              <target value="minifyTheme" />
-              <target value="docs" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>exec</name>
-            <targets>
-              <target value="npmUpdate" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>htmllint</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>htmlmin</name>
-            <targets>
-              <target value="dist" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>jade</name>
-            <targets>
-              <target value="customizerVars" />
-              <target value="customizerNav" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>jekyll</name>
-            <targets>
-              <target value="docs" />
-              <target value="github" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>jscs</name>
-            <targets>
-              <target value="grunt" />
-              <target value="core" />
-              <target value="test" />
-              <target value="assets" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>jshint</name>
-            <targets>
-              <target value="grunt" />
-              <target value="core" />
-              <target value="test" />
-              <target value="assets" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>less</name>
-            <targets>
-              <target value="compileCore" />
-              <target value="compileTheme" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>qunit</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>saucelabs-custom</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>saucelabs-jasmine</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>saucelabs-mocha</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>saucelabs-qunit</name>
-            <targets>
-              <target value="all" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>saucelabs-yui</name>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>sed</name>
-            <targets>
-              <target value="versionNumber" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>uglify</name>
-            <targets>
-              <target value="core" />
-              <target value="customize" />
-              <target value="docsJs" />
-            </targets>
-          </GruntMultiTaskState>
-          <GruntMultiTaskState>
-            <name>watch</name>
-            <targets>
-              <target value="src" />
-              <target value="test" />
-              <target value="less" />
-            </targets>
-          </GruntMultiTaskState>
-        </multi-tasks>
-        <gruntfile-path>$PROJECT_DIR$/bootstrap-3.3.6/Gruntfile.js</gruntfile-path>
-      </GruntfileState>
-    </gruntfiles>
     <initial>false</initial>
   </component>
   <component name="JsGulpfileManager">
@@ -339,7 +155,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-3.3.6" />
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -353,11 +169,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap-3.3.6" />
+              <option name="myItemId" value="dist" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="grunt" />
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LPAA2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LPAA2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LPAA2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LPAA2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dist" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -371,6 +219,24 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
     <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="options.lastSelected" value="reference.settings.deploy.options" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Webstorm\LPAA2016\img" />
+      <recent name="E:\Webstorm\LPAA2016\dist\css" />
+      <recent name="E:\Webstorm\LPAA2016\dist\js" />
+      <recent name="E:\Webstorm\LPAA2016" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -403,6 +269,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
     <list size="0" />
@@ -422,18 +293,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3266129" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24177396" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.06723891" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24892704" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -441,9 +309,12 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32870865" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3266129" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962063" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -467,52 +338,53 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/docs/getting-started.html">
+    <entry file="file://$PROJECT_DIR$/Notes-Bootstrap-etc.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/package.json">
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap.min.css.map">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="32.692307" vertical-offset="918" max-vertical-offset="1581">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/grunt/sauce_browsers.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1496">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="434">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/grunt/configBridge.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-3.3.6/Gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.88" vertical-offset="5618" max-vertical-offset="9163">
-          <caret line="345" column="7" selection-start-line="345" selection-start-column="7" selection-end-line="345" selection-end-column="7" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Notes-Bootstrap-etc.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2505263" vertical-offset="0" max-vertical-offset="475">
-          <caret line="7" column="10" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="544">
+          <caret line="26" column="2" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/bootstrap-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.55304104" vertical-offset="0" max-vertical-offset="10098">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462" vertical-offset="765" max-vertical-offset="2516">
+          <caret line="68" column="41" selection-start-line="68" selection-start-column="41" selection-end-line="68" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/css/offcanvas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14166667" vertical-offset="0" max-vertical-offset="1241">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
           <folding />
         </state>
       </provider>
