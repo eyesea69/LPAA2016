@@ -18,7 +18,16 @@ footer {
 }
 
 .jumbotron.frontpage {
-  background-image: img;
+  background-image: url('../../img/CenterArt.jpg');
+  background-position: top left;
+  background-repeat: no-repeat;
+  background-clip: border-box;
+  -webkit-box-shadow: 3px 3px 5px 5px rgba(0, 0, 0, 0.59);
+  box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.59);
+}
+
+.jumbotron.frontpage h1, .jumbotron.frontpage p{
+  text-shadow: 2px 2px 5px #000;
 }
 
 /*
