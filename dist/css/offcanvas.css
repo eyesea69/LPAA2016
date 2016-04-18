@@ -31,6 +31,34 @@ footer {
 }
 
 /*
+ * Article CSS
+  *--------------------------------------------------
+  */
+
+article {
+
+}
+article img {
+  border: solid 1px #333;
+   margin: 0 auto;
+}
+
+article figcaption {
+  margin: 15px auto;
+  text-align: center;
+}
+
+
+.article-right{
+  display: table-cell;
+  vertical-align: bottom;
+}
+
+.right-offset-10{
+  margin-right: 10px;
+}
+
+/*
  * Off Canvas
  * --------------------------------------------------
  */
